@@ -1,0 +1,3 @@
+
+string getTodayTime();
+string getTodayName();

@@ -1,0 +1,33 @@
+v1.00:
+Deciding on some small feature.
+Currently everything stay in same folder, except log.
+Generic task will stay in generic.txt [expect sth at most 10 tasks]
+Maybe decide on weekly task, monthly task as well.
+Maybe I would learn to get some info from google calendar.
+
+Add log to store last time online => first log in of the day (greeting.txt)
+
+
+
+180330:
+Write very basic backbone of my program.
+Done : get the day mask.
+My intention is each logfile only contain a bitstring -> can't update generic task wo info loss.
+So I will propagate info into every log file. 
+Currently logfile only contain simple info
+
+
+180331:
+Change structure of trie
+Will add a run log later.
+Basically the program is up and running 
+Need to fix get_logname (filename generated not as expected)
+
+180403:
+Will consider a refresher when there is a date change.
+Will rewrite to include some stat about average time consume, maybe variance as well ?
+
+180407: Will add
+Quick add plan
+View plan -> Modified -> Rewrite plan
+Reminded (add sound with play command(sox))
